@@ -118,6 +118,11 @@
     margin-right: 10px;
   }
 
+  .proj{
+        width: 500px;
+        margin-right: 10px;
+  }
+
 
 #hero {
     background: url('images/Downtown-Pittsburgh-Pennsylvania-Fort-Pitt-Bridge-Monongahela.webp') no-repeat center center/cover; /* Path to your hero image */
